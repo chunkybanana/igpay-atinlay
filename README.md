@@ -9,10 +9,10 @@
 ```
 ---
 ### Typescript
-I just did this one because I was bored - it's identical to the Javascript one. Don't bother. 
+#### I just did this one because I was bored - it's identical to the Javascript one. Don't bother. 
 ---
 ### Coffeescript
-Also just did this one because I was bored. No idea either...
+#### Also just did this one because I was bored. No idea either...
 ---
 ### Ruby
 ```ruby
